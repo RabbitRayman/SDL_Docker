@@ -1,4 +1,4 @@
-# SDL_Lab_2
+# SDL_Docker
 ## Содержимое Dockerfile
 ```Dockerfile
 FROM nginx:1.11-alpine
